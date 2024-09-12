@@ -6,7 +6,7 @@ Highcharts.chart('container', {
         text: 'Pop. cob. - ABBC'
     },
     subtitle: {
-        text: 'PF x PP'
+        text: 'Plano F x Plano P'
     },
     credits: {
         enabled: false
